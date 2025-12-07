@@ -81,11 +81,11 @@
 
 ---
 
-## 📊 Language Usage
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavindu-maduhansa&theme=github_dark)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavindu-maduhansa&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavindu-maduhansa&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavindu-maduhansa&theme=github_dark" width="45%" />
+</p>
 
 
 ### 🎮 Fun Fact  
