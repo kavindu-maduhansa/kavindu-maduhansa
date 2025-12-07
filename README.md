@@ -74,9 +74,6 @@
 
 ## 📊 GitHub Stats (Always Visible)
 
-### 🔥 Activity Graph  
-![Kavindu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindu-maduhansa&theme=github-dark)
-
 ### ⭐ GitHub Badges  
 ![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20Java%20%7C%20Python%20%7C%20C%2B%2B-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/kavindu-maduhansa?style=for-the-badge)
